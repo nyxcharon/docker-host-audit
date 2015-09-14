@@ -7,7 +7,7 @@ This is a ruby script to run the official docker host security audit container o
 a machine and report what test fail. It can run all test, or just a set of them
 that can be specified. It will only alert on test in a WARN state. Returns 0 on success
 and 1 on failure.  
-Offical docker host audit image - [https://github.com/docker/docker-bench-security]  
+Offical docker host audit image - [Github Repo](https://github.com/docker/docker-bench-security)  
 Center for Internet Security report the above image was based on - [PDF Here](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 
 Flags
